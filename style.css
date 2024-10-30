@@ -129,6 +129,10 @@ header {
     }
 }
 
+.social a {
+    text-decoration: none;
+}
+
 .social img {
     width: 35px;
     height: auto;
@@ -223,6 +227,7 @@ footer {
 }
 .footer-a a {
     margin: 10px;
+    text-decoration: none;
 }
 .footer-a {
     text-align: center;
